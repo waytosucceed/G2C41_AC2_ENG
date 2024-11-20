@@ -1,0 +1,223 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What did Lily dream of becoming one day?",
+    "options": [
+      "A teacher",
+      "A scientist",
+      "A doctor"
+    ],
+    "correct": 1,
+    "explanation": "Lily dreamed of becoming a scientist because she loved to read about stars, planets, and all the amazing things scientists discover. The story tells us that she looked up at the sky every night and imagined herself exploring the world of science."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What did Lily's family encourage her to do?",
+    "options": [
+      "To keep dreaming",
+      "To stop reading",
+      "To play outside"
+    ],
+    "correct": 0,
+    "explanation": "Lily’s family encouraged her to keep dreaming because they wanted her to follow her hopes and wishes. Even though they worried about how she would reach her goal, they supported her dreams of becoming a scientist."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "How did Lily feel as Christmas approached?",
+    "options": [
+      "Sad",
+      "Excited",
+      "Angry"
+    ],
+    "correct": 1,
+    "explanation": "As Christmas approached, Lily felt especially excited because she knew that with hard work and help from others, she could get closer to her dream of becoming a scientist at NASA. Her excitement showed her hope and determination for the future."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Look at the picture and the correct action verb: <br><img src='./aeroplane.png' width='150px'/>",
+ 
+    "options": [
+      "Swim",
+      "Dance",
+      "Fly"
+    ],
+    "correct": 2,
+    "explanation": "The correct action verb is 'fly' because the picture shows an aeroplane flying in the sky. The other options, 'swim' and 'dance,' do not match what an aeroplane does."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Pipeline",
+      "Pipline",
+      "Pipeliine"
+    ],
+    "correct": 0,
+    "explanation": "The correct spelling is 'pipeline.' It has the letters 'p-i-p-e-l-i-n-e' in that order, which makes it the right choice. The other options, 'pipline' and 'pipeliine,' have missing letters or extra letters, so they are not correct. A pipeline is a system of pipes used to transport liquids or gases!"
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Which sentence is correct?",
+    "options": [
+      "My birthday is in april.",
+      "My birthday is in April.",
+      "my birthday is in April."
+    ],
+    "correct": 1,
+    "explanation": "'April' is the name of a month and should always start with a capital letter. The first letter of months is always capitalised."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which sentence is correct?",
+    "options": [
+      "my favourite book is 'harry potter.'",
+      "My favourite book is 'Harry Potter.'",
+      "My favourite book is 'harry Potter.'"
+    ],
+    "correct": 1,
+    "explanation": "'Harry Potter' is the title of a book, so both words need to start with capital letters. Titles of books always have capital letters."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Which sentence is correct?",
+    "options": [
+      "we went to the zoo on saturday.",
+      "we went to the Zoo on Saturday.",
+      "We went to the zoo on Saturday."
+    ],
+    "correct": 2,
+    "explanation": "The first word 'We' is capitalised, and 'Saturday' is a day of the week, so it also starts with a capital letter."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which sentence is correct?",
+    "options": [
+      "my mom loves to cook.",
+      "My mom loves to cook.",
+      "my Mom loves to cook."
+    ],
+    "correct": 1,
+    "explanation": "The first word 'My' should be capitalised because it starts the sentence. 'Mom' does not need to be capitalised unless it's used as a name."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which sentence is correct?",
+    "options": [
+      "In summer, we go to the beach.",
+      "in Summer, we go to the beach.",
+      "In summer, we Go to the beach."
+    ],
+    "correct": 0,
+    "explanation": "The first word 'In' is capitalised, but 'summer' is not a proper noun, so it should be lowercase."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "The first month of the year is _________.",
+    "options": [
+      "january",
+      "January",
+      "JANUARY"
+    ],
+    "correct": 1,
+    "explanation": "We capitalise the names of all months. January, February, March, etc. always start with a capital letter!"
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "My best friend ________ lives next door.",
+    "options": [
+      "sarah",
+      "SARAH",
+      "Sarah"
+    ],
+    "correct": 2,
+    "explanation": "Names of people (also called proper nouns) always start with a capital letter. Whether it's your friend, teacher, or family member - their names need a capital letter at the start!"
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "My family is going to ________ for vacation.",
+    "options": [
+      "paris",
+      "PARIS",
+      "Paris"
+    ],
+    "correct": 2,
+    "explanation": "Cities, countries, and places (like Paris, New York, China) always start with a capital letter."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "________ starts with capital letter.",
+    "options": [
+      "the first word of a sentence",
+      "The First Word of a Sentence",
+      "The first word of a sentence"
+    ],
+    "correct": 2,
+    "explanation": "Every time you start a new sentence, the very first word should begin with a capital letter, no matter what word it is!"
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "My dog's name is ________.",
+    "options": [
+      "Buddy",
+      "BUDDY",
+      "buddy"
+    ],
+    "correct": 0,
+    "explanation": "Pet names are just like people's names. Whether it's a dog, cat, or hamster, their names start with a capital letter."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the sentence that is correctly capitalised:",
+    "options": [
+      "the president of the united states.",
+      "The president of the United States.",
+      "the President of the United States."
+    ],
+    "correct": 1,
+    "explanation": "'The' is capitalized because it starts the sentence, and 'United States' is the name of a country that needs capital letters."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Choose the sentence that is correctly capitalised:",
+    "options": [
+      "I love going to the library in december.",
+      "I love going to the Library in December.",
+      "I love going to the library in December."
+    ],
+    "correct": 2,
+    "explanation": "'December' is the name of a month and should be capitalised."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Choose the sentence that is correctly capitalised:",
+    "options": [
+      "my favourite colour is blue.",
+      "My favourite colour is blue.",
+      "my Favourite colour is blue."
+    ],
+    "correct": 1,
+    "explanation": "'My' is the first word of the sentence and needs to be capitalised."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Choose the sentence that is correctly capitalised:",
+    "options": [
+      "We visited the Eiffel Tower in Paris.",
+      "We visited the eiffel tower in paris.",
+      "we visited the Eiffel tower in Paris."
+    ],
+    "correct": 0,
+    "explanation": "'Eiffel Tower' and 'Paris' should both be capitalised because they are names of a monument and a place. 'We' is also capitalised because it is the first word of the sentence."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Choose the sentence that is correctly capitalised:",
+    "options": [
+      "my sister's birthday is in june.",
+      "My sister's birthday is in June.",
+      "my sister's Birthday is in June."
+    ],
+    "correct": 1,
+    "explanation": "'June' is a month and should always be capitalised, while 'My' is the first word of the sentence."
+  }
+]
